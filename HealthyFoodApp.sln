@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthyFoodApp", "HealthyFoodApp.csproj", "{A5E1CA62-9F09-4E8B-8CBA-D7E1D655EA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E1CA62-9F09-4E8B-8CBA-D7E1D655EA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E1CA62-9F09-4E8B-8CBA-D7E1D655EA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E1CA62-9F09-4E8B-8CBA-D7E1D655EA8B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A5E1CA62-9F09-4E8B-8CBA-D7E1D655EA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E1CA62-9F09-4E8B-8CBA-D7E1D655EA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E1CA62-9F09-4E8B-8CBA-D7E1D655EA8B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE04A8C-A8B2-4D5B-9B05-B225E437853B}
+	EndGlobalSection
+EndGlobal
